@@ -1,0 +1,6 @@
+[submodule "keechallenge"]
+	path = keechallenge
+	url = git://git.code.sf.net/p/keechallenge/code
+[submodule "yubico-c"]
+	path = yubico-c
+	url = https://github.com/Yubico/yubico-c.git
